@@ -6,4 +6,4 @@ console.log("feature")
 
 console.log("added new feature-c bbbb")
 
-console.log("smooth update")
+console.log("conflict in the master")
