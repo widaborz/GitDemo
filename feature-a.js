@@ -1,2 +1,1 @@
-console.log("feature-a"); 
-console.log("new feature in feature-a")
+console.log("feature in the branch")
