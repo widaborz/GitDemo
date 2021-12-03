@@ -1,1 +1,2 @@
-console.log("conflict in the master")
+console.log("updated remote branch")
+
