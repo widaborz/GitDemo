@@ -1,1 +1,1 @@
-console.log("file in a remote repository")
+console.log("conflict in the master")
